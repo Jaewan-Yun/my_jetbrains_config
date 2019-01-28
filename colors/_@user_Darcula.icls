@@ -1,0 +1,34 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-01-17T14:34:06</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-20T18:25:53</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="14181d" />
+    <option name="READONLY_BACKGROUND" value="20262e" />
+    <option name="SELECTION_BACKGROUND" value="404d5d" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="BACKGROUND" value="7090a" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="636363" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="cddef0" />
+        <option name="BACKGROUND" value="50506" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
