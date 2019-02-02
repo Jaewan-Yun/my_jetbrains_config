@@ -1,12 +1,23 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.CopyAction" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
