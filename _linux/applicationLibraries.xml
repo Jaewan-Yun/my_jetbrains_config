@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery-ajax-chain" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="google_maps_api_v3_35.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Documents/google_docs/google_maps_api_v3_35.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/google_docs/google_maps_api_v3_35.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
