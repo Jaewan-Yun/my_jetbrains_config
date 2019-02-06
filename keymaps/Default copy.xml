@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoLine" />
   <action id="IncrementWindowHeight" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -27,6 +28,9 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
