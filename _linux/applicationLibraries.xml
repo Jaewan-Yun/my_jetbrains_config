@@ -4,39 +4,11 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/express-mysql-session" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/express-session" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/formidable" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/google-maps" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/jquery" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/jquery-ajax-chain" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/mariasql" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/mysql" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/node-mysql-wrapper" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
