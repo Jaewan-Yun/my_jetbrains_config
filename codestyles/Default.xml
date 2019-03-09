@@ -6,6 +6,7 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="SOFT_MARGINS" value="80" />
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
   </PHPCodeStyleSettings>
@@ -35,7 +36,6 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Haml">
@@ -51,7 +51,6 @@
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
@@ -67,7 +66,6 @@
     <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
