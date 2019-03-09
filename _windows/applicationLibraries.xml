@@ -1,6 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/bootstrap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery-ajax-chain" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
