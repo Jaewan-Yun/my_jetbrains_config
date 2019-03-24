@@ -24,5 +24,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/web3" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
