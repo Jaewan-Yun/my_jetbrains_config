@@ -28,5 +28,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="tf" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tensorflow_tfjs_dist_tf.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@tensorflow_tfjs_dist_tf.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
