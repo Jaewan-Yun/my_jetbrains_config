@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a2721f98-6c46-453f-ba5e-e58101429784" name="aws" url="http://52.26.241.18">
-        <fileTransfer host="52.26.241.18" port="22" privateKey="C:\Users\Jae\Downloads\jaewany.pem" accessType="SFTP" keyPair="true">
+        <fileTransfer host="52.26.241.18" port="22" privateKey="$USER_HOME$/.ssh/jaewany.pem" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="100000" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
