@@ -8,6 +8,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/gapi.auth2" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/google-cloud__text-to-speech" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mysql" type="javaScript">
       <CLASSES />
       <SOURCES />
